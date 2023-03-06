@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "783155194401",
+    "project_id": "defi-app-9420e",
+    "storage_bucket": "defi-app-9420e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783155194401:android:f8a6571e9c3698e3489160",
+        "android_client_info": {
+          "package_name": "com.example.defi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783155194401-eimvud12r7p7cb3kcmrd4r1gdmkdn23l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMueEh92gPylr3sdxuTksO3QwyiymfWes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783155194401-eimvud12r7p7cb3kcmrd4r1gdmkdn23l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "783155194401-idtu7i3m0l7o0v21g18rrhsuq7scp6u1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.defiApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
